@@ -1,3 +1,0 @@
-# git-Tutorial-Bekarys2
-
-
